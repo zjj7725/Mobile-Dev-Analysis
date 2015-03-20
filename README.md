@@ -20,15 +20,15 @@ Analysis of android or java
 - Notes.md作为记录总结（分析）所用的文件
 - 如果有图片请在notes.md平行的目录里面new一个art文件夹，并把图片放在里面  
 ###4.Projects(每组最多2-3人):  
-> #### Android view  
-> #### Java以及Android网络请求（TCP,UDP,HTTP) 
-> #### Android图片处理 
-> #### Android多媒体开发 
-> #### Java类集框架原理以及实现 
-> #### Java并发(多线程等) 
-> #### NDK 
-> #### Android四大组件（一）：activity，service
-> #### Android四大组件（二）：contentprovider，broadcaster
-> #### Android数据通信（AIDL等）
-> #### Android数据存储 
-> #### Android插件化（java类加载）
+> #### Android view   
+> #### Java以及Android网络请求（TCP,UDP,HTTP)  
+> #### Android图片处理  
+> #### Android多媒体开发  
+> #### Java类集框架原理以及实现  
+> #### Java并发(多线程等)  
+> #### NDK  
+> #### Android四大组件（一）：activity，service 
+> #### Android四大组件（二）：contentprovider，broadcaster 
+> #### Android数据通信（AIDL等） 
+> #### Android数据存储  
+> #### Android插件化（java类加载） 
