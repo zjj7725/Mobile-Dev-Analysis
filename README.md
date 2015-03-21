@@ -35,7 +35,7 @@ Analysis of android or java
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
-| Android四大组件（一）：activity，service           |          |        |
+| Android四大组件（一）：activity，service           |周其     |        |
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
 | Android插件化（Java类加载）                        |          |        |
