@@ -31,7 +31,7 @@ Analysis of android or java
 | Android view                                       |   kachidoki, moiling ,luoyy      |        |
 | Java以及Android网络请求（TCP,UDP,HTTP)             |   KirinRyuuri,Jim_Ryna            |        |
 | Android图片处理                                    |  Stardust                  |        |
-| Android多媒体开发                                  |   DragonLz,zjj7725  |        |
+| Android多媒体开发                                  |   DragonLz,zjj7725,myValentine12  |        |
 | Java类集框架原理以及实现                           |          |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
