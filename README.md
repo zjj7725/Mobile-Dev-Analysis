@@ -29,14 +29,14 @@ Analysis of android or java
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
 | Android view                                       |   kachidoki, moiling ,luoyy      |        |
-| Java以及Android网络请求（TCP,UDP,HTTP)             |   KirinRyuuri,Jim_Ryna,doubleItTowang            |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             |   KirinRyuuri,Jim_Ryna,doubleItTowang,CquptJimmySky            |        |
 | Android图片处理                                    |  Stardust,Geome-try,Francs001                            |        |
 | Android多媒体开发                                  |   DragonLz,zjj7725,myValentine12  |        |
 | Java类集框架原理以及实现                           | gcq0409,skyline71,Taraer          |        |
 | Java并发(多线程等)                                 |      Kermit95    |        |
 | NDK                                                |          |        |
 | Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
-| Android四大组件（二）：contentprovider，broadcaster|4Lyu,srtianxia,KevinHuangK          |        |
+| Android四大组件（二）：contentprovider，broadcaster |4Lyu,srtianxia,KevinHuangK          |        |
 | Android数据通信（AIDL等）                          |Fukago,Howerd-Liu,Jude95          |        |
 | Android插件化（Java类加载）                        |    Dflybirds,Hola-V,zengying1  |        |
 
