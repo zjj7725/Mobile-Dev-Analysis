@@ -35,7 +35,7 @@ Analysis of android or java
 | Java类集框架原理以及实现                           | gcq0409,skyline71         |        |
 | Java并发(多线程等)                                 |          |        |
 | NDK                                                |          |        |
-| Android四大组件（一）：activity，service           |cappuccinoqi，liuyubo      |        |
+| Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
 | Android插件化（Java类加载）                        |    Dflybirds  |        |
