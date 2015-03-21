@@ -36,7 +36,7 @@ Analysis of android or java
 | Java并发(多线程等)                                 |      Kermit95    |        |
 | NDK                                                |          |        |
 | Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
-| Android四大组件（二）：contentprovider，broadcaster|4Lyu,srtianxia          |        |
+| Android四大组件（二）：contentprovider，broadcaster|4Lyu,srtianxia,KevinHuangK          |        |
 | Android数据通信（AIDL等）                          |Fukago,Howerd-Liu,Jude95          |        |
 | Android插件化（Java类加载）                        |    Dflybirds,Hola-V  |        |
 
