@@ -26,6 +26,19 @@ Analysis of android or java
 
 ### 4. Projects(每组最多2-3人):
 
+| Projects                                    | Member   | Buddy  |
+| :------------------------------------------ | :------- | :--:   |
+| Android view                                |  |       |
+| Java以及Android网络请求（TCP,UDP,HTTP)      |    |      |
+| Pipe                                        |     |     |
+| Pipe                                        |    1 USD | 234    |
+| Pipe                                        |    1 USD | 234    |
+| Pipe                                        |    1 USD | 234    |
+
+
+
+
+
 
 - Android view  
 - Java以及Android网络请求（TCP,UDP,HTTP)  
