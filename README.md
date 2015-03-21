@@ -38,5 +38,5 @@ Analysis of android or java
 | Android四大组件（一）：activity，service           |cappuccinoqi,liuyubo,shidm      |        |
 | Android四大组件（二）：contentprovider，broadcaster|4Lyu          |        |
 | Android数据通信（AIDL等）                          |          |        |
-| Android插件化（Java类加载）                        |    Dflybirds  |        |
+| Android插件化（Java类加载）                        |    Dflybirds,Hola-V  |        |
 
