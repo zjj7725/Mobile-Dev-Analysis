@@ -29,7 +29,7 @@ Analysis of android or java
 | Projects                                           | Member   | Buddy  |
 | :------------------------------------------------- | :------- | :--:   |
 | Android view                                       |   kachidoki, moiling ,luoyy      |        |
-| Java以及Android网络请求（TCP,UDP,HTTP)             |          |        |
+| Java以及Android网络请求（TCP,UDP,HTTP)             |   KirinRyuuri       |        |
 | Android图片处理                                    |          |        |
 | Android多媒体开发                                  |          |        |
 | Java类集框架原理以及实现                           |          |        |
