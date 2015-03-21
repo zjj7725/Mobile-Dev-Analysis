@@ -38,6 +38,6 @@ Analysis of android or java
 | Android四大组件（一）：activity，service           |cappuccinoqi     |        |
 | Android四大组件（二）：contentprovider，broadcaster|          |        |
 | Android数据通信（AIDL等）                          |          |        |
-| Android插件化（Java类加载）                        |    郭谦  |        |
+| Android插件化（Java类加载）                        |    Dflybirds  |        |
 
 ##TEST
