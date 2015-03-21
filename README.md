@@ -41,20 +41,4 @@ Analysis of android or java
 | Android插件化（Java类加载）                        |          |        |
 
 
-
-
-
-
-- Android view  
-- Java以及Android网络请求（TCP,UDP,HTTP)  
-- Android图片处理  
-- Android多媒体开发  
-- Java类集框架原理以及实现  
-- Java并发(多线程等)  
-- NDK  
-- Android四大组件（一）：activity，service  
-- Android四大组件（二）：contentprovider，broadcaster  
-- Android数据通信（AIDL等）  
-- Android数据存储  
-- Android插件化（Java类加载）   
     
