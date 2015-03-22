@@ -40,4 +40,25 @@ Analysis of android or java
 | Android数据通信（AIDL等）                          |Fukago,Howerd-Liu,Jude95          |        |
 | Android插件化（Java类加载）                        |    Dflybirds,Hola-V,zengying1  |        |
 
-###5.README
+###5.NOTICE
+- ONE
+> 我会把每个人都invite进这个org，但是会直接分好组  
+> 1.Android View组需要研究到view的绘制流程以及自定义view方法还有一些自己考虑  
+> 2.NetWorking组需要研究android网络请求的详细步骤过程  
+> 3.Android bitmap组需要研究bitmap的加载优化等等  
+> 4.多媒体开发组需要研究音频视频的录制播放  
+> 5.Java Collection组需要研究总结它的原理和实现  
+> 6.并发组需要研究如何提供一个高效的并发解决方案  
+> 7.NDK...  
+> 8.四大组件两个组的用法和分析  
+> 9.AIDL组的原理和用法  
+> 10.插件组研究类加载机制和android插件化的实现,可以看看KJFrame的插件化的实现
+
+- TWO
+研究方法，每个组第一周要干的就是写一份计划，计划该组的project该如何进行
+具体点就是说，每个project可能会有很多个小专题，制定一个可行的计划，第一次研究哪个专题这样的方式。（两天update一次）  
+->周五前pull到该team的仓库中  
+->第二次上课前每个组都要拿出对前两个组计划的可行性分析  
+->最后交一个研究结果总结，那个时候差不多你们就会有巨大的收获了，这比传统的听课方式学到的多的多，骚年们加油~  
+- （我会给每个组一些后续的相关资料，如果有任何不明白的欢迎私聊我qq）
+
